@@ -13,7 +13,7 @@ While this challenge is great, it's a tough one for people to finish. Missing a 
 
 The MASTERMND Edition of 100DoC adds a few modifications to help extract the most out of the challenge. Here are the rules.
 
-1. Practice/Learn for a MINUMUM of 7 hours per week for 20 weeks
+1. Practice/Learn for a MINIMUM of 7 hours per week for 20 weeks
 2. You get 2 cheat days per week, guilt free
 3. Cheat days are use or lose. You can't save them to use later(Consistency is key. We're going for 5 days a week, hands on keyboard)
 4. 1 hour each week should be spent reading/analyzing code(maybe start by sharing with each other!)
